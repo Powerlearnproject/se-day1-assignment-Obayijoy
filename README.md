@@ -57,3 +57,4 @@ Prompt: Types of coffee
 - 10 types of coffee in Asia
 - 10 types of coffee in Asia: south Korea
 
+The improved prompt specifies the plce, continent and the list. using the number, I am able to tell the AI sepciifically how mnay coffees i want listed
